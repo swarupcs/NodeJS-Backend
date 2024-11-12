@@ -66,6 +66,7 @@ module.exports = {
   fetchPendingEmails,
   createNotification,
   updateTicket,
+  subscribeEvents,
 };
 
 /**
